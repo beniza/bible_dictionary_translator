@@ -31,6 +31,7 @@ The Bible Dictionary Translator facilitates the translation of Greek New Testame
 
 - Export/Import functionality for collaborative translation efforts
 - Concordance view showing Bible passages using each term
+- Integration with Paratext Biblical Terms tool
 - Addition of other target languages beyond Malayalam
 - Enhanced AI assistance with specialized theological models
 - More extensive filtering and search capabilities
