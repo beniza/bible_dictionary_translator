@@ -4,7 +4,7 @@ A desktop application for translating Biblical Greek lexicon entries to Malayala
 
 ## Purpose
 
-The Bible Dictionary Translator facilitates the translation of Greek New Testament terms and their definitions to Malayalam. It aims to bridge the language gap for Malayalam-speaking theological students, scholars, and Bible readers by providing accurate, culturally appropriate translations of Biblical terminology.
+The Bible Dictionary Translator facilitates the translation of Greek New Testament terms and their definitions to Malayalam. It aims to bridge the language gap for Mothertongue Bible Translators by providing accurate, culturally appropriate translations of Biblical terminology.
 
 ## Features
 
