@@ -1,5 +1,7 @@
 # Bible Dictionary Translator
 
+![image](https://github.com/user-attachments/assets/6058b61f-fdfc-4793-9709-769b64e9eb1d)
+
 A desktop application for translating Biblical Greek lexicon entries to Malayalam with AI assistance.
 
 ## Purpose
@@ -42,6 +44,3 @@ The Bible Dictionary Translator facilitates the translation of Greek New Testame
 
 The application is currently in testing phase with invited translators. Public beta release is expected soon.
 
-## Screenshots
-
-![image](https://github.com/user-attachments/assets/6058b61f-fdfc-4793-9709-769b64e9eb1d)
